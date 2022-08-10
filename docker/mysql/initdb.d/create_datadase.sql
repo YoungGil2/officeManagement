@@ -1,1 +1,0 @@
-CREATE DATABASE IF NOT EXISTS laravel9_test_dev;
